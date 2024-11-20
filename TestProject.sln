@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndForEachStatement",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateReadableCodeConventionsWhitespaceComments", "CreateReadableCodeConventionsWhitespaceComments\CreateReadableCodeConventionsWhitespaceComments.csproj", "{E740901E-7F53-4454-980C-9BE0676BB28E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GuidedProject", "GuidedProject", "{2034EDB9-71EF-4491-A98C-306A18E53A34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter", "GuidedProject\Starter\Starter.csproj", "{A40F8778-674F-46FB-A55A-5ED60D847723}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,11 +43,18 @@ Global
 		{E740901E-7F53-4454-980C-9BE0676BB28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E740901E-7F53-4454-980C-9BE0676BB28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E740901E-7F53-4454-980C-9BE0676BB28E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40F8778-674F-46FB-A55A-5ED60D847723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40F8778-674F-46FB-A55A-5ED60D847723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40F8778-674F-46FB-A55A-5ED60D847723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40F8778-674F-46FB-A55A-5ED60D847723}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CB680A47-E44E-4413-8D68-EC33AADB688A}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A40F8778-674F-46FB-A55A-5ED60D847723} = {2034EDB9-71EF-4491-A98C-306A18E53A34}
 	EndGlobalSection
 EndGlobal
