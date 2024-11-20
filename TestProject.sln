@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallTheMethodsDotNetClass",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddDecisionLogicWithIfAndElse", "AddDecisionLogicWithIfAndElse\AddDecisionLogicWithIfAndElse.csproj", "{088933B7-54D8-4E5C-A20E-EAEDED9CDBED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndForEachStatement", "ArraysAndForEachStatement\ArraysAndForEachStatement.csproj", "{6536F4F6-5AA6-44DF-BC7F-10379EC00901}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{088933B7-54D8-4E5C-A20E-EAEDED9CDBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{088933B7-54D8-4E5C-A20E-EAEDED9CDBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{088933B7-54D8-4E5C-A20E-EAEDED9CDBED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6536F4F6-5AA6-44DF-BC7F-10379EC00901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6536F4F6-5AA6-44DF-BC7F-10379EC00901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6536F4F6-5AA6-44DF-BC7F-10379EC00901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6536F4F6-5AA6-44DF-BC7F-10379EC00901}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
